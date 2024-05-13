@@ -1,4 +1,4 @@
-# Ligands_pLDDT_assessment
+# Ligands pLDDT assessment
 Script for ligand pLDDT extraction
 
 AlphaFold v3 allows predictions with ligands and ions included. You can test the probability of interaction with your protein using the pLDDT scores which can be extracted from the cif file using this script.
